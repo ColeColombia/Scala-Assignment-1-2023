@@ -1,3 +1,7 @@
+/*
+Write a function that takes the value of a and b, and then checks to see if a is less than b. if a is less
+than b, it prints “a is less than b” or otherwise “a is not less than b.”
+*/
 
 class CheckAB{
 
