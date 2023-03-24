@@ -5,7 +5,7 @@ Questions
 1. Write a function that takes the value of a and b, and then checks to see if a is less than b. if a is less
 than b, it prints “a is less than b” or otherwise “a is not less than
 
-- [Answer 1.1] (https://github.com/ColeColombia/Scala-Assignment-1-2023/blob/main/CompareAB.scala)
+- [Answer 1.1](https://github.com/ColeColombia/Scala-Assignment-1-2023/blob/main/CompareAB.scala)
 
 Create a function getSqure that takes an Int argument and returns its square. Test using the following
 code:
