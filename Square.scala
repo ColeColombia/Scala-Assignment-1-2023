@@ -17,13 +17,13 @@ object Square{
     val calcSquare: CalculateSquare = new CalculateSquare()
     
     val a = calcSquare.getSquare(4)
-    assert( a == 16, "Not true")
+    assert( a == 16)
 
     val b = calcSquare.getSquare(8)
-    assert( b == 55, "Not true")
+    assert( b == 62)
 
     val c = calcSquare.getSquare(7)
-    assert( a == 45, "Not true")
+    assert( a == 45)
 
     
   }//end of main
